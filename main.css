@@ -3,6 +3,28 @@
     height: auto;
   }
 
-.card-img-top{
-    background-color: rgb(255, 219, 166);
+.shadow1{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.75);
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.75);
+}
+
+
+
+.snapper {
+  background: #af2654;
+}
+
+.seagrass {
+  background: #a6be47;
+}
+
+.starfish {
+  background: #ff9d04;
+}
+
+.laguna {
+  background: #00bccd; ;
 }
